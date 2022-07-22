@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.bg-primary {
+    background-color:orange !important;
+}
+
+.mi-fondo {
+    background-color: aqua;
+}
+
+.btn {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 3em;
+}
